@@ -18,11 +18,11 @@
 				<p>目前系统共收录 80+ 张图片 API最后更新时间:2021-03-01</p>
 				<p>图片采用gitee等多种方式存储</p>
 				<p>自判断二次元API基本调用格式：</p>
-				<pre><a href="<?php $_SERVER['HTTP_HOST'] ?>/api.php" target="_blank"><?php echo 'http://'.$_SERVER['HTTP_HOST'] ?>/api.php</a></pre>
+				<pre><a href="<?php $_SERVER['HTTP_HOST'] ?>/api.php" target="_blank"><?php echo 'https://'.$_SERVER['HTTP_HOST'] ?>/api.php</a></pre>
 				<p>（横屏）PC端随机二次元API</p>
-				<pre><a href="<?php echo 'http://'.$_SERVER['HTTP_HOST'] ?>/pc.php" target="_blank"><?php echo 'http://'.$_SERVER['HTTP_HOST'] ?>/pc.php</a></pre>
+				<pre><a href="<?php echo 'https://'.$_SERVER['HTTP_HOST'] ?>/pc.php" target="_blank"><?php echo 'https://'.$_SERVER['HTTP_HOST'] ?>/pc.php</a></pre>
 				<p>（竖屏）手机端随机二次元API</p>
-				<pre><a href="<?php echo 'http://'.$_SERVER['HTTP_HOST'] ?>/pe.php" target="_blank"><?php echo 'http://'.$_SERVER['HTTP_HOST'] ?>/pe.php</a></pre>
+				<pre><a href="<?php echo 'https://'.$_SERVER['HTTP_HOST'] ?>/pe.php" target="_blank"><?php echo 'https://'.$_SERVER['HTTP_HOST'] ?>/pe.php</a></pre>
 				<p>请求方式</p>
 				<pre>get/post</pre>
 				<p>返回格式</p>
