@@ -96,3 +96,7 @@ https://gitee.com/histion/acg-api-use-wallpaper/raw/master/95.jpg
 https://gitee.com/histion/acg-api-use-wallpaper/raw/master/96.jpg
 https://gitee.com/histion/acg-api-use-wallpaper/raw/master/97.jpg
 https://gitee.com/histion/acg-api-use-wallpaper/raw/master/98.jpg
+https://gitee.com/histion/acg-api-use-wallpaper/raw/master/99.jpg
+https://gitee.com/histion/acg-api-use-wallpaper/raw/master/100.jpg
+https://gitee.com/histion/acg-api-use-wallpaper/raw/master/101.jpg
+https://gitee.com/histion/acg-api-use-wallpaper/raw/master/102.jpg
